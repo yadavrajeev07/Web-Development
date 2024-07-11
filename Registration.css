@@ -1,0 +1,84 @@
+
+.formm{
+    
+    font-family: arial;
+    font-size: 16px;
+    padding: 5%;
+    display:ruby-text;
+    background-color: rgb(251, 244, 235);
+    
+}
+.formlist{
+    border-style: solid;
+    border-color: rgb(56, 46, 46);
+    box-shadow: 5px 10px #888888;
+    padding: 3%;
+    color: rgb(79, 5, 5);
+    background-color: rgb(161, 126, 80);
+    display:grid;
+    
+}
+.occ{
+    margin-top: 9%;
+}
+.Selection{
+    display: table-row;
+    align-content: flex-end;
+color: rgb(73, 48, 4);
+}
+
+.button{
+    padding: 2%;
+    margin-top: 8%;
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border-color: rgb(13, 7, 1);
+    border-radius: 8dvh;
+}
+.ocbutton{
+    width: 100px;
+    padding: 2%;
+    margin-top: 8%;
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border-color: rgb(13, 7, 1);
+    border-radius: 8dvh;
+}
+.ocbutton:hover{
+    box-shadow: 5px 2px #f60707;
+    background-color: #04AA6D; /* Green */
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.button:hover{
+    cursor: pointer;
+    box-shadow: 5px 2px #f60707;
+    background-color: #04AA6D; /* Green */
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    
+    
+}
+.buttonn{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border-color: rgb(13, 7, 1);
+    margin-top: 20%;
+    padding: 5%;
+    border-radius: 8dvh;
+}
+.buttonn:hover{
+    box-shadow: 5px 2px #f60707;
+    background-color: #04AA6D; /* Green */
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.border{
+    border-color: black;
+    background-color: rgb(184, 241, 241);
+    padding: 3px;
+    border-radius: 8dvh;
+}
+.input{
+    padding: 4%;
+}
